@@ -1,0 +1,89 @@
+[
+    {
+        "link": "https://hh.ru/vacancy/97747252?query=Python&hhtmFrom=vacancy_search_list",
+        "title": "Senior Python Developer",
+        "city": "Москва",
+        "metro_station": "",
+        "company": "ГКУ Инфогород",
+        "salary_range": "Нет вилки ЗП",
+        "keywords": [
+            "Django",
+            "Flask"
+        ]
+    },
+    {
+        "link": "https://hh.ru/vacancy/96791594?query=Python&hhtmFrom=vacancy_search_list",
+        "title": "Программист Python",
+        "city": "Санкт-Петербург",
+        "metro_station": "",
+        "company": "Деловые люди",
+        "salary_range": "80 000 – 150 000 ₽",
+        "keywords": [
+            "Flask",
+            "Django"
+        ]
+    },
+    {
+        "link": "https://hh.ru/vacancy/96169784?query=Python&hhtmFrom=vacancy_search_list",
+        "title": "Python developer",
+        "city": "Санкт-Петербург",
+        "metro_station": "",
+        "company": "ПАО «Газпром нефть» ИТ",
+        "salary_range": "Нет вилки ЗП",
+        "keywords": [
+            "Django Framework",
+            "Flask",
+            "Django"
+        ]
+    },
+    {
+        "link": "https://hh.ru/vacancy/94855594?query=Python&hhtmFrom=vacancy_search_list",
+        "title": "Senior Python Developer (GigaChat)",
+        "city": "Москва",
+        "metro_station": "",
+        "company": "Сбер для экспертов",
+        "salary_range": "Нет вилки ЗП",
+        "keywords": [
+            "Django",
+            "Flask",
+            "Django Framework"
+        ]
+    },
+    {
+        "link": "https://hh.ru/vacancy/94747200?query=Python&hhtmFrom=vacancy_search_list",
+        "title": "Python Developer Middle+/Senior",
+        "city": "Санкт-Петербург",
+        "metro_station": "",
+        "company": "ЕДИНЫЙ ЦУПИС",
+        "salary_range": "Нет вилки ЗП",
+        "keywords": [
+            "Django",
+            "Flask"
+        ]
+    },
+    {
+        "link": "https://hh.ru/vacancy/92896866?query=Python&hhtmFrom=vacancy_search_list",
+        "title": "Middle / Senior Python Developer (удаленно)",
+        "city": "Санкт-Петербург",
+        "metro_station": "",
+        "company": "RedLab",
+        "salary_range": "Нет вилки ЗП",
+        "keywords": [
+            "Flask",
+            "Django",
+            "Django Framework"
+        ]
+    },
+    {
+        "link": "https://hh.ru/vacancy/96006760?query=Python&hhtmFrom=vacancy_search_list",
+        "title": "Middle/Senior Python-разработчик",
+        "city": "Москва",
+        "metro_station": "Белорусская",
+        "company": "ООО Интермобилити",
+        "salary_range": "Нет вилки ЗП",
+        "keywords": [
+            "Django",
+            "Flask"
+        ]
+    }
+]
